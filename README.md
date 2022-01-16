@@ -1,4 +1,4 @@
-![Loan Qualifier Application][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluevine.com%2Fblog%2Favoidable-business-loan-application-mistakes%2F&psig=AOvVaw2hn8BVmW80VPIqU7pRCQ8b&ust=1642448165251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD7k7SCt_UCFQAAAAAdAAAAABAL)](https://media.bluevine.com/wp-content/uploads/2017/12/14131631/agreement-business-close-up-175045-scaled.jpg)
+![Loan Qualifier Application](https://media.bluevine.com/wp-content/uploads/2017/12/14131631/agreement-business-close-up-175045-scaled.jpg)
 
 # Project Title
 
