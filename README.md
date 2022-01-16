@@ -15,13 +15,13 @@ The following Python Libraries were used.
 
 * [fire] - (https://github.com/google/python-fire) - Helps with the design of modular app building.
 
-* [questionary] - https://github.com/tmbo/questionary - Grants you with the ability to to pull and compare data to get a desired outcome. In this case the amount of loans someone qualifies for.
+* [questionary] - (https://github.com/tmbo/questionary) - Grants you with the ability to to pull and compare data to get a desired outcome. In this case the amount of loans someone qualifies for.
 
 ---
 
 ## Installation Guide
 
-In order for the Loan Qualifer to operate properly you'll need to run the following commands
+In order for the Loan Qualifer to operate properly you'll need to run the following commands.
 
 ```
 pip install fire
