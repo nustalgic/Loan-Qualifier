@@ -30,6 +30,15 @@ def load_csv(csvpath):
     return data
 
 def save_csv(csvpath):
+    """Reads the CSV file from path provided.
+
+        Args:
+            csvpath (Path): The csv file path.
+
+        Returns:
+            A list of lists that contains the rows of data from the CSV file that you can save.
+
+    """
     with open(csvpath, "w") as csvfile:
         data = []
         csvreader = csv.reader(csvfile, delimiter=",")
