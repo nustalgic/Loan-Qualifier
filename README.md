@@ -1,4 +1,4 @@
-![Loan Qualifier Prompts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluevine.com%2Fblog%2Favoidable-business-loan-application-mistakes%2F&psig=AOvVaw2hn8BVmW80VPIqU7pRCQ8b&ust=1642448165251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD7k7SCt_UCFQAAAAAdAAAAABAL))
+![Loan Qualifier Prompts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluevine.com%2Fblog%2Favoidable-business-loan-application-mistakes%2F&psig=AOvVaw2hn8BVmW80VPIqU7pRCQ8b&ust=1642448165251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD7k7SCt_UCFQAAAAAdAAAAABAL)
 
 # Project Title
 
