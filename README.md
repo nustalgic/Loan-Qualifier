@@ -1,3 +1,5 @@
+![Loan Qualifier Prompts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluevine.com%2Fblog%2Favoidable-business-loan-application-mistakes%2F&psig=AOvVaw2hn8BVmW80VPIqU7pRCQ8b&ust=1642448165251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD7k7SCt_UCFQAAAAAdAAAAABAL))
+
 # Project Title
 
 This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility, and then returning to them a list of qualifying loans.
@@ -33,7 +35,7 @@ To use the loan qualifier application simply clone the repository and run the **
 ```python
 python app.py
 ```
-![Loan Qualifier Prompts](Images/loan_output.png)
+
 ---
 
 ## Contributors
