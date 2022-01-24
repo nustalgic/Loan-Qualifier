@@ -128,4 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+terminal_history.txt
+>>>>>>> b4b875273d96e70b8f6c4f4fdb8368e88736e6ae
